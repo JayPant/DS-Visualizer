@@ -95,7 +95,7 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [Your Email](mailto:youremail@example.com)
+Your Name - [Email](mailto:dhananjayoffc2002@example.com)
 
-Project Link: [https://github.com/yourusername/data-structure-visualizer](https://github.com/yourusername/data-structure-visualizer)
+Project Link: [Live Link]([https://github.com/yourusername/data-structure-visualizer](https://comfy-figolla-f00c46.netlify.app/))
 
