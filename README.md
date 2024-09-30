@@ -62,9 +62,13 @@ Once the application is running, you can:
 - Watch the tree structure update in real-time, with animations showing how the structure changes.
 
 ## Data Structures Implemented
+- **Arrays** : Shows how indexing and accessing of the elements works.
+- **LinkedList**: Demonstrates how the insertion deletion worked.
 - **Binary Trees**: Visualizes basic binary tree structures.
 - **Binary Search Trees (BSTs)**: Shows how nodes are organized based on their values.
 - **AVL Trees**: Demonstrates self-balancing binary search trees, highlighting rotations and rebalancing.
+- **Sorting Algos** : Implemented and visualize sorting algos like  Bubble sort, selection sort, insertion sort, merge sort, quick sort etc
+- **Stack and Queue**: Visualizes pop push in stack and enqueue and dequeue in queue .
 
 ## How It Works
 The application utilizes **React** for building the user interface and **D3.js** (via `react-d3`) for rendering interactive data visualizations. When users perform actions (like adding or deleting nodes), the application's state is updated, triggering re-renders that reflect the current state of the tree structures.
