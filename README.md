@@ -75,8 +75,12 @@ The application utilizes **React** for building the user interface and **D3.js**
 - **Tooltip Component**: Displays additional information about each node on hover.
 
 ## Screenshots
-![Binary Tree](https://drive.google.com/file/d/1XEOsKG_sycmaY6d2V-Sa3HFWC7rv2LVv/view?usp=sharing)
-![AVL Tree Example](https://your-screenshot-url.com/avl-tree.png)
+![Binary Tree](Algo-Visualizer\ss\Trees.png)
+![LinkedList](Algo-Visualizer\ss\LinkedList.png)
+![Arrays](Algo-Visualizer\ss\Arrays.png)
+![Queues](Algo-Visualizer\ss\Queues.png)
+![Stack](Algo-Visualizer\ss\Stack.png)
+![Sorting](Algo-Visualizer\ss\Sorting.png)
 
 ## Future Improvements
 - Implement additional data structures such as B-trees and graphs.
