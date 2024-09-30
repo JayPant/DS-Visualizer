@@ -75,7 +75,7 @@ The application utilizes **React** for building the user interface and **D3.js**
 - **Tooltip Component**: Displays additional information about each node on hover.
 
 ## Screenshots
-![Binary Tree]([https://your-screenshot-url.com/binary-tree.png](https://drive.google.com/file/d/1XEOsKG_sycmaY6d2V-Sa3HFWC7rv2LVv/view?usp=sharing))
+![Binary Tree](https://drive.google.com/file/d/1XEOsKG_sycmaY6d2V-Sa3HFWC7rv2LVv/view?usp=sharing)
 ![AVL Tree Example](https://your-screenshot-url.com/avl-tree.png)
 
 ## Future Improvements
