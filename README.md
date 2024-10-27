@@ -99,7 +99,7 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [Email](mailto:dhananjayoffc2002@example.com)
+Dhananjay Pant - [Email](mailto:dhananjayoffc2002@example.com)
 
 Project Link: [Live Link](https://ds-visuals.netlify.app/)
 
